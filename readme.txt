@@ -1,0 +1,1 @@
+O Sistema de extensão irá permitir ao aluno ter controle sobre as participações nos eventos.
